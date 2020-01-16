@@ -1,10 +1,9 @@
 title: 张翔宇 <br> Xiangyu Zhang  # your name (or website title) here
 logo: "/images/me.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a PhD student in the Department of CS at UNH.
+  I am a PhD student in the Department of Computer Science at UNH.
   <br><br>
-  Second description 
-  <br><br>
+ 
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
