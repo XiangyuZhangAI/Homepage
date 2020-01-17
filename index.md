@@ -30,6 +30,15 @@ Braking Torque in Safe Working Condition](http://scialert.net/qredirect.php?doi=
 Reviewer for [MobiQuitous 2019](http://mobiquitous2019.eai-conferences.org).
 
 ---
+### Messages
+<form action="https://formspree.io/xiangyuzhangai@gmail.com" method="post">
+                    <input type="text" placeholder="Your Name" name="name">
+                    <input type="email" placeholder="Your Email" name="eamil">
+                    <textarea name="message" id="doc-vld-ta-2-1" minlength="10"  placeholder="Please leave a message"></textarea>
+                    <div class="banner_btn pa">
+                        <button style="line-height: 41px;" type="submit">Submit</button>
+                    </div>
+</form>
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
