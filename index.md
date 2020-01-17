@@ -41,7 +41,7 @@ Reviewer for [MobiQuitous 2019](http://mobiquitous2019.eai-conferences.org).
 </form>
 
 <br>
-<div style="text-align:center;padding:1em 0;"> <h4><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/4930956"><span style="color:gray;"></a></h4> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=America%2FNew_York" width="100%" height="90" frameborder="0" seamless></iframe> </div>
+<div style="text-align:center;padding:1em 0;"> <h4><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/4930956"><span style="color:gray;">Current local time in</span><br />Boston, United States</a></h4> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=America%2FNew_York" width="100%" height="90" frameborder="0" seamless></iframe> </div>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
