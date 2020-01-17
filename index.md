@@ -1,8 +1,6 @@
 ## Time Flies
 
-<html>
-<iframe src="http://free.timeanddate.com/clock/i745eqbi/n68/szw110/szh110/hoc000/hbw0/hfc0cf/cf100/hnce1ead6/fiv0/fas24/fdi66/mqc000/mql15/mqw4/mqd98/mhc000/mhl15/mhw4/mhd98/mmc000/mml10/mmw1/mmd98/hhs2/hms2/hsc000" frameborder="0" width="110" height="110"></iframe>
-</html>
+<div style="text-align:center;padding:1em 0;"> <h4><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/4930956"><span style="color:gray;">Current local time in</span><br />Boston, United States</a></h4> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=America%2FNew_York" width="100%" height="90" frameborder="0" seamless></iframe> </div>
 
 ---
 
